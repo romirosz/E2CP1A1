@@ -1,0 +1,108 @@
+.españa{
+	
+	height: 100px;
+	width: 25%;
+	padding: 6%;
+	background-color: red;
+	float: left;
+	margin: 10px;
+	position: relative;
+}
+.amarillo{
+	height: 105px;
+	width: 500px;
+	background-color:yellow;
+	position: absolute;
+	margin: 10px;
+	left: 8px;
+	top:85px;
+
+
+}
+.dinamarca{
+	height: 100px;
+	width: 25%;
+	padding: 6%;
+	background-color: red;
+	float: left;
+	margin: 10px;
+	position: relative;
+}
+.box1{
+	height: 46px;
+	width: 39%;
+	background-color: white;
+	position: absolute;
+	margin: 10px;
+	left: 516px;
+	top: 110px;
+	
+}
+.box2{
+	height: 270px;
+	width: 48px;
+	background-color: white;
+	position: absolute;
+	margin: 10px;
+	left: 628px;
+	top: 8px;
+}
+
+.emiratos{
+	height: 100px;
+	width: 25%;
+	padding: 6%;
+	background-color: red;
+	float: left;
+	margin: 10px;
+}
+
+.boxgreen{
+	height:93px;
+	width: 386px;
+	background-color:green;
+	position: absolute;
+	margin: 10px;
+	left: 122px;
+	top: 290px;
+}
+
+.boxwhite{
+	height: 88px;
+	width: 388px;
+	background-color:white;
+	position: absolute;
+	margin: 10px;
+	left: 122px;
+	top: 377px;
+}
+.boxblack{
+	height: 88px;
+	width: 386px;
+	background-color:black;
+	position: absolute;
+	margin: 10px;
+	left: 122px;
+	top: 464px;
+}
+.japon{
+	height: 100px;
+	width: 25%;
+	padding: 6%;
+	background-color:white;
+	float:left;
+	margin: 10px;
+	border: 1px solid black;
+}
+
+.red{
+	height: 110px;
+	width: 110px;
+	background-color: red;
+	border-radius: 55px;
+	position: absolute;
+	margin: 10px;
+	float: left;
+	left:718px;
+	top:366px;
+}

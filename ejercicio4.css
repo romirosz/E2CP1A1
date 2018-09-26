@@ -1,0 +1,25 @@
+
+.box{
+	background-color: #b0ccab;
+	padding: 120px;
+	width: 700px;
+	margin: 30px;
+	
+}
+.parrafo1{
+	position:fixed;
+	left: 50px;
+	padding: 20px;
+	font-size: 19px;
+
+
+}
+
+.parrafo2{
+	position:fixed;
+	left: 45px;
+	top: 100px;
+	padding: 60px;
+	font-size: 19px;
+	top: 70px;
+}

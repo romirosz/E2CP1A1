@@ -1,0 +1,29 @@
+body{ 
+	margin: 0px; }
+
+.elem{
+	width: 200px;
+	height: 200px;
+	position: relative;
+	} 
+.square1{
+	background-color: rgba(255,0,0,.5);
+	top: 80px;
+	left: 50px;
+	z-index: 2;
+
+}
+.square2{
+	background-color: rgba(0,255,0,.5);
+	top: 110px;
+	left: 80px;
+	z-index: 1;
+	position: absolute;
+	
+}
+.square3{
+	background-color: rgba(0,0,255,.5);
+	left: 110px;
+	top: -59px;
+	
+}
